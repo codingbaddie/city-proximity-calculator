@@ -1,0 +1,515 @@
+Province,city ID,city,nearby 1,nearby 2,nearby 3
+Bali,c442c866-1211-4b32-87c0-48e631790c40,Badung,Denpasar,Gianyar,Tabanan
+Bali,35c87747-6d1f-4dfb-8ee2-1a799a121112,Bangli,Karang Asem,Gianyar,Klungkung
+Bali,d3c0066c-3cea-4a6b-bf65-788794852a30,Buleleng,Tabanan,Jembrana,Bangli
+Bali,0dc937ff-525e-476c-b070-37a1c22e7bca,Denpasar,Badung,Gianyar,Klungkung
+Bali,86bc3a4c-3c4c-4b51-8468-aa50a5b938c6,Gianyar,Badung,Klungkung,Denpasar
+Bali,47947f35-3d17-4f00-98bc-1878a0de29dd,Jembrana,Buleleng,Tabanan,Banyuwangi
+Bali,96e785c2-52d8-4bd3-b107-fa30892f8697,Karang Asem,Klungkung,Bangli,Gianyar
+Bali,08d59cf7-d11b-4054-bcf5-d9e5c5ad7d85,Klungkung,Gianyar,Karang Asem,Badung
+Bali,06ee3547-a050-4e5c-bf66-f4349dc1c4c3,Tabanan,Badung,Gianyar,Buleleng
+Banten,d29adc29-80d5-4a35-ad22-edd3e4295d09,Cilegon,Serang,Serang,Tangerang
+Banten,df82cede-77e1-4f12-bd7b-3b55d2cafb53,Lebak,Pandeglang,Bogor,Serang
+Banten,26592e50-4641-4d76-943e-bb0141a8e2cd,Pandeglang,Serang,Lebak,Serang
+Banten,ba5a7c20-2d28-435b-b241-eb4ef06e33d8,Serang,Cilegon,Serang,Tangerang
+Banten,cc9d6315-e377-4fa1-aa79-45d3eea6706a,Serang,Cilegon,Serang,Pandeglang
+Banten,ae3c458e-5947-4833-8f1b-e001ce2fad1d,Tangerang,Jakarta Barat,Tangerang Selatan,Tangerang
+Banten,d305a80e-4891-45a4-8c5b-29c9242f431e,Tangerang,Tangerang,Tangerang Selatan,Jakarta Barat
+Banten,337f8da8-70d8-4916-9733-1cee8e4902e9,Tangerang Selatan,Jakarta Selatan,Jakarta Barat,Tangerang
+Bengkulu,a81fcf88-e5b2-4f12-af50-117256edc91d,Bengkulu,Bengkulu Tengah,Seluma,Kepahiang
+Bengkulu,659b287f-c823-410b-bdd9-0310255132af,Bengkulu Selatan,Pagar Alam,Kaur,Muara Enim
+Bengkulu,3863d4b7-8bc2-4753-9e61-1f80080e9472,Bengkulu Tengah,Bengkulu,Kepahiang,Seluma
+Bengkulu,669ef7ae-e4d7-45c1-80d4-314a27203a2b,Bengkulu Utara,Lebong,Mukomuko,Bengkulu Tengah
+Bengkulu,05afba22-3a75-4128-8070-000a997c4f95,Kaur,Bengkulu Selatan,Muara Enim,Pagar Alam
+Bengkulu,f9592927-039f-4cc4-ae35-3255dd744b8c,Kepahiang,Bengkulu Tengah,Rejang Lebong,Bengkulu
+Bengkulu,0c44cac9-7c0a-40aa-9607-7c5fc6efc522,Lebong,Bengkulu Utara,Rejang Lebong,Kepahiang
+Bengkulu,4f9f9bc0-90c8-4dde-8503-ebc303c52bac,Mukomuko,Bengkulu Utara,Lebong,Sungai Penuh
+Bengkulu,d4b4372b-596c-4f3c-9101-041d51902c5a,Rejang Lebong,Lubuklinggau,Kepahiang,Empat Lawang
+Bengkulu,056d8c93-b14f-4114-8678-c1823dbb660e,Seluma,Bengkulu,Bengkulu Tengah,Kepahiang
+DI Yogyakarta,7e00299d-34f6-4312-ae06-ce9d4289680c,Bantul,Yogyakarta,Sleman,Kulon Progo
+DI Yogyakarta,ac50f403-fbb3-4e19-9a2a-72f8c1b3ccf6,Gunungkidul,Bantul,Yogyakarta,Klaten
+DI Yogyakarta,fc4ab164-1f66-4c38-baeb-d242828ee80d,Kulon Progo,Sleman,Purworejo,Yogyakarta
+DI Yogyakarta,43b7ade6-0205-419a-9f6e-455b116b4d8e,Sleman,Yogyakarta,Kulon Progo,Bantul
+DI Yogyakarta,9857274b-b76f-4e43-ac9b-d2904ac8a372,Yogyakarta,Bantul,Sleman,Kulon Progo
+DKI Jakarta,af0ed74f-1b51-43cf-a14c-459996e39105,Jakarta Barat,Jakarta Pusat,Jakarta Selatan,Tangerang
+DKI Jakarta,e2a615bb-0997-42c8-a018-c4a1768ae01f,Jakarta Pusat,Jakarta Barat,Jakarta Utara,Jakarta Timur
+DKI Jakarta,078b37b2-e791-4739-958e-c29192e5df3e,Jakarta Selatan,Jakarta Timur,Jakarta Pusat,Tangerang Selatan
+DKI Jakarta,3d6ac5e8-f12d-40cd-823d-44597402ea3b,Jakarta Timur,Jakarta Selatan,Jakarta Pusat,Bekasi
+DKI Jakarta,ea61f4ac-5864-4b2b-a2c8-aa744a2aafea,Jakarta Utara,Jakarta Pusat,Jakarta Timur,Bekasi
+DKI Jakarta,ddd28ed9-d36c-48e1-aa74-de3006122569,Kepulauan Seribu,Tangerang,Tangerang,Jakarta Barat
+Gorontalo,89ccc714-baef-47d2-a448-264626c15f9e,Boalemo,Gorontalo,Gorontalo,Gorontalo Utara
+Gorontalo,ee93f4a5-fec6-462c-92ea-7b7e33be8ec4,Bone Bolango,Gorontalo,Bolaang Mongondow Utara,Gorontalo Utara
+Gorontalo,1a1b6859-17c9-4b68-b29e-33951a62afc8,Gorontalo,Boalemo,Gorontalo,Gorontalo Utara
+Gorontalo,d3313c88-8c03-40a3-af09-42af10770234,Gorontalo,Bone Bolango,Gorontalo Utara,Gorontalo
+Gorontalo,06244ef8-2c1e-4837-839c-da82fa243bd5,Gorontalo Utara,Gorontalo,Gorontalo,Bolaang Mongondow Utara
+Gorontalo,dcaf8c54-01a7-4ef6-92a7-68a07620444e,Pohuwato,Buol,Boalemo,Toli-Toli
+Jambi,0410aa0d-e85a-4689-859d-0c2e10077615,Batang Hari,Jambi,Tanjung Jabung Barat,Sarolangun
+Jambi,118f56ab-b54f-49d6-b4c6-89b0b34114b3,Bungo,Tebo,Dharmasraya,Merangin
+Jambi,567f96a9-4468-4272-bd52-a410e97a27be,Jambi,Muaro Jambi,Tanjung Jabung Timur,Batang Hari
+Jambi,cd05a3a8-423f-4efd-bdc1-231217520635,Kerinci,Sungai Penuh,Merangin,Bungo
+Jambi,fdb642ce-159f-4ca8-a798-0dd154801c94,Merangin,Bungo,Sarolangun,Kerinci
+Jambi,4827b7aa-bfd9-4f6c-9c43-cd6430d1ff11,Muaro Jambi,Jambi,Tanjung Jabung Timur,Tanjung Jabung Barat
+Jambi,cf6d0618-501b-45b1-8cf9-2ea0bfb1ea25,Sarolangun,Musi Rawas Utara,Merangin,Batang Hari
+Jambi,47e3c2e1-5421-4832-8a33-f2e03f2c68b6,Sungai Penuh,Kerinci,Pesisir Selatan,Merangin
+Jambi,3599d0b7-7c43-45d3-b60a-2bacb1415f2f,Tanjung Jabung Barat,Tanjung Jabung Timur,Batang Hari,Jambi
+Jambi,389febfc-c50c-48cc-8ce0-4b1317b95b67,Tanjung Jabung Timur,Tanjung Jabung Barat,Muaro Jambi,Jambi
+Jambi,5b85a932-c792-4968-9833-45df9ec5219d,Tebo,Bungo,Merangin,Batang Hari
+Jawa Barat,86a3dc56-1bd7-4cd3-8225-d3e4b976e552,Bandung,Cimahi,Bandung Barat,Bandung
+Jawa Barat,c11f7fd1-6982-4bc6-8eef-36ca4909b663,Bandung,Bandung,Cimahi,Bandung Barat
+Jawa Barat,c76405bf-683a-4a1b-8014-7d8163294d86,Bandung Barat,Cimahi,Bandung,Purwakarta
+Jawa Barat,a50d7523-3312-426e-8e5a-205c81ca90a6,Banjar,Ciamis,Tasikmalaya,Pangandaran
+Jawa Barat,826664b3-1f31-497f-bc8a-a23699b1a531,Bekasi,Bekasi,Jakarta Utara,Jakarta Timur
+Jawa Barat,87c39cfb-0e3c-4edb-a7a0-754fb70cc587,Bekasi,Jakarta Timur,Jakarta Utara,Jakarta Pusat
+Jawa Barat,262b7d3c-2c51-4854-a7e8-6635e0657338,Bogor,Bogor,Depok,Tangerang Selatan
+Jawa Barat,fbc373c5-cadc-4dd8-acb3-1e57850e2a08,Bogor,Bogor,Depok,Tangerang Selatan
+Jawa Barat,491bc345-d6b3-41d0-8707-dc179000af39,Ciamis,Banjar,Tasikmalaya,Kuningan
+Jawa Barat,a26f8a8c-f8a6-4a4d-b448-39af6eff2d4c,Cianjur,Sukabumi,Bogor,Purwakarta
+Jawa Barat,89637124-13ea-4bd5-8e4d-1d9dfe41e37d,Cimahi,Bandung Barat,Bandung,Bandung
+Jawa Barat,1f8698ee-09e3-4fdd-aa87-ce44ba300a68,Cirebon,Cirebon,Kuningan,Majalengka
+Jawa Barat,a94ecde6-ae27-4849-be89-03384ed6086c,Cirebon,Cirebon,Kuningan,Majalengka
+Jawa Barat,f5817918-7ce1-436d-9478-c438b3466adb,Depok,Jakarta Selatan,Tangerang Selatan,Jakarta Timur
+Jawa Barat,b40a40dd-9cfa-41f2-907f-46dbf0aecbc1,Garut,Bandung,Tasikmalaya,Tasikmalaya
+Jawa Barat,90f3c906-bd96-4c58-9719-d4d212afe516,Indramayu,Majalengka,Sumedang,Subang
+Jawa Barat,24bcf73f-36d1-4eff-a32c-ab43a9b7683e,Karawang,Bekasi,Purwakarta,Subang
+Jawa Barat,bf16bdb5-90d0-4831-81a5-ad9cec6c94df,Kuningan,Cirebon,Cirebon,Ciamis
+Jawa Barat,79b5cd5d-9675-4cf1-8611-b73fefd2bcb9,Majalengka,Cirebon,Cirebon,Sumedang
+Jawa Barat,1044e459-d4ff-4534-8a5a-55f09005b983,Pangandaran,Banjar,Cilacap,Ciamis
+Jawa Barat,cad5917e-53f4-4f0d-a62f-a7c7b5d69765,Purwakarta,Bandung Barat,Subang,Cimahi
+Jawa Barat,aec9204f-929c-4165-9cbc-aef4877ef448,Subang,Purwakarta,Karawang,Bandung Barat
+Jawa Barat,6b4a019d-36cf-45e7-bf90-65488ec76fad,Sukabumi,Sukabumi,Cianjur,Bogor
+Jawa Barat,bed8133e-0ea6-45d0-9ce6-a04d2a42e59e,Sukabumi,Cianjur,Sukabumi,Bogor
+Jawa Barat,e0720aba-a134-4091-bf40-ce754846b23f,Sumedang,Majalengka,Bandung,Indramayu
+Jawa Barat,387cd2f2-e3b0-4a22-aeae-111ce36e4864,Tasikmalaya,Tasikmalaya,Ciamis,Banjar
+Jawa Barat,b094b559-57f7-44ba-b9a6-f9eb157bcbdf,Tasikmalaya,Tasikmalaya,Ciamis,Garut
+Jawa Tengah,8b4940c1-cb74-4b02-915b-e08a024fec17,Banjarnegara,Purbalingga,Kebumen,Pekalongan
+Jawa Tengah,c83795ec-8c10-45e7-90e0-8e1003488736,Banyumas,Cilacap,Purbalingga,Tegal
+Jawa Tengah,cd6bf080-5d35-46f8-8778-6bc1c58036d5,Batang,Pekalongan,Pekalongan,Kendal
+Jawa Tengah,15f22273-0577-479e-a20a-912b6e30baec,Blora,Rembang,Ngawi,Bojonegoro
+Jawa Tengah,f8bb7ac9-9299-4481-9ded-2e5f2fa203c6,Boyolali,Surakarta,Sragen,Klaten
+Jawa Tengah,7edbc8a7-cbe1-47f1-a6e2-469e6c13d236,Brebes,Tegal,Tegal,Kuningan
+Jawa Tengah,02986a2e-84c5-498a-9db6-336146d227b7,Cilacap,Banyumas,Pangandaran,Purbalingga
+Jawa Tengah,677f2aa7-cf0f-4b06-9094-96e820536f34,Demak,Semarang,Kudus,Jepara
+Jawa Tengah,a91cd33f-cccb-4674-8289-bd80db1cbfdd,Grobogan,Sragen,Kudus,Demak
+Jawa Tengah,7eab3dac-8d40-4fb4-ab25-7279b47203ba,Jepara,Kudus,Pati,Demak
+Jawa Tengah,69f71465-0d6f-48e3-89f3-8358af68d5f5,Karanganyar,Sukoharjo,Surakarta,Sragen
+Jawa Tengah,4ef6a1aa-6d35-45bc-b1a4-1b027c34ad84,Kebumen,Banjarnegara,Purworejo,Wonosobo
+Jawa Tengah,a7a00b99-fe57-49e7-99e0-f40e43316e5a,Kendal,Semarang,Temanggung,Batang
+Jawa Tengah,3fe12bc8-ba47-4ce3-bad4-387b7d6d2470,Klaten,Surakarta,Sukoharjo,Boyolali
+Jawa Tengah,848bdd2e-7a04-485a-8b1c-c74a2c8075d2,Kudus,Pati,Jepara,Demak
+Jawa Tengah,2caf7fde-61d9-417c-82fe-d8a606252e87,Magelang,Magelang,Sleman,Temanggung
+Jawa Tengah,de51c5ec-7620-4e38-b785-2449aa095e19,Magelang,Magelang,Temanggung,Wonosobo
+Jawa Tengah,a3e3cde2-ba50-4fa3-a8b9-1558de57f42d,Pati,Kudus,Jepara,Rembang
+Jawa Tengah,2b791c0b-93db-4e49-934d-9fd518936afc,Pekalongan,Pekalongan,Batang,Pemalang
+Jawa Tengah,b0209f5c-ebd5-4f81-92bd-d14401735d2b,Pekalongan,Pekalongan,Pemalang,Batang
+Jawa Tengah,2d4866e2-bf71-4295-9484-bb5c2aea69ee,Pemalang,Tegal,Purbalingga,Pekalongan
+Jawa Tengah,a4ac27fb-7125-4938-9ab7-8396c3bb4512,Purbalingga,Pemalang,Banjarnegara,Banyumas
+Jawa Tengah,4162f857-cecc-449f-88c2-97ce663653c4,Purworejo,Kulon Progo,Kebumen,Magelang
+Jawa Tengah,00a7136c-b523-4540-b787-2731efbf4dfc,Rembang,Blora,Pati,Tuban
+Jawa Tengah,271c44a3-75bc-48a5-af0a-2425a934beb6,Salatiga,Semarang,Boyolali,Magelang
+Jawa Tengah,a9ff8f92-f835-47a5-b74b-4425bda9e092,Semarang,Semarang,Kendal,Demak
+Jawa Tengah,d83cac16-5462-4893-8c91-a8bd84639d4c,Semarang,Salatiga,Semarang,Temanggung
+Jawa Tengah,6a7ed0cd-c2c6-407a-8c42-b49b9e0e31ca,Sragen,Surakarta,Boyolali,Karanganyar
+Jawa Tengah,9d9bf985-f496-4afe-9213-cb401b985ff5,Sukoharjo,Surakarta,Karanganyar,Klaten
+Jawa Tengah,17c26ccc-5329-494c-b6ad-4b37a0c12fde,Surakarta,Sukoharjo,Boyolali,Sragen
+Jawa Tengah,0e4def0c-3507-4ab3-b2b5-78b9ce92a34a,Tegal,Tegal,Pemalang,Brebes
+Jawa Tengah,a5891954-798b-42cb-a02e-0be4c1ad4eec,Tegal,Tegal,Brebes,Pemalang
+Jawa Tengah,b16850e3-e7e1-4ca5-b191-241cfd6bc445,Temanggung,Magelang,Kendal,Wonosobo
+Jawa Tengah,7a0ea9d7-6ebf-410c-96ce-815dcbbd4047,Wonogiri,Pacitan,Sukoharjo,Karanganyar
+Jawa Tengah,d045318e-0f19-4edb-9fc8-3077e2fa76d5,Wonosobo,Temanggung,Magelang,Magelang
+Jawa Timur,7a75068f-8a49-4b79-8214-7d3443de7435,Bangkalan,Surabaya,Sampang,Gresik
+Jawa Timur,510747f2-1189-4cb7-8e19-07925e545186,Banyuwangi,Bondowoso,Jember,Jembrana
+Jawa Timur,b18bda87-85a7-4f9e-96a9-a8dd19cfbb8e,Batu,Malang,Mojokerto,Pasuruan
+Jawa Timur,25131e20-b47f-487f-8de3-c6139e4c8a60,Blitar,Blitar,Tulungagung,Kediri
+Jawa Timur,e6568986-63ad-47c2-921a-7e17f334fa6a,Blitar,Blitar,Tulungagung,Kediri
+Jawa Timur,b64853f2-fdc5-40b9-91dc-cab4b6a8df0a,Bojonegoro,Tuban,Nganjuk,Madiun
+Jawa Timur,2d40743b-9b8d-4d4f-a282-162942b50cc4,Bondowoso,Situbondo,Jember,Banyuwangi
+Jawa Timur,1c0b4d54-562a-466a-a9d6-c609ac2eb4c3,Gresik,Surabaya,Lamongan,Sidoarjo
+Jawa Timur,48f3dba8-0889-46d9-b11b-1cb6acfa4b94,Jember,Bondowoso,Banyuwangi,Probolinggo
+Jawa Timur,a6f922b3-b4ff-4afb-a0bd-d61dba8a3d7c,Jombang,Mojokerto,Mojokerto,Kediri
+Jawa Timur,036ec39f-86aa-4840-9dad-4c6b9d9fb5c2,Kediri,Kediri,Nganjuk,Blitar
+Jawa Timur,65743f05-096b-4d6c-a990-b0210620a0f3,Kediri,Kediri,Nganjuk,Jombang
+Jawa Timur,8af5007c-8c35-4446-9e82-cc2fed3d6f73,Lamongan,Gresik,Mojokerto,Jombang
+Jawa Timur,f7ac9156-2251-4bba-96fc-8c0560d51742,Lumajang,Probolinggo,Probolinggo,Malang
+Jawa Timur,047e48de-9e13-4356-8560-93e25caceb06,Madiun,Madiun,Magetan,Nganjuk
+Jawa Timur,3ad6c34a-50ae-4805-9630-9cb1af3af63a,Madiun,Madiun,Magetan,Ngawi
+Jawa Timur,e72485af-115a-4376-89d0-1ece7bc0eda9,Magetan,Madiun,Ngawi,Madiun
+Jawa Timur,62fd1074-336e-4479-8425-b578fe3a03d0,Malang,Malang,Batu,Blitar
+Jawa Timur,6ec28332-761a-4ee9-b0d8-52171a170edf,Malang,Batu,Malang,Pasuruan
+Jawa Timur,dc8752a0-6680-48e6-9eb5-c29790ecc707,Mojokerto,Mojokerto,Jombang,Sidoarjo
+Jawa Timur,e415848f-f28a-4575-86b0-581adf9f67e4,Mojokerto,Mojokerto,Jombang,Sidoarjo
+Jawa Timur,e3b27e26-d021-43dd-9515-7bf5220e50f2,Nganjuk,Kediri,Kediri,Madiun
+Jawa Timur,9bf80e18-9e87-404e-ab79-444538f40175,Ngawi,Magetan,Madiun,Karanganyar
+Jawa Timur,24fc8f9c-1336-462f-8f89-9af45f3abebc,Pacitan,Wonogiri,Ponorogo,Trenggalek
+Jawa Timur,2870639f-6921-46e1-9227-06747cdbe174,Pamekasan,Sampang,Sumenep,Bangkalan
+Jawa Timur,3efbb56b-acd8-47b7-b8c6-aff1268caf8d,Pasuruan,Pasuruan,Batu,Malang
+Jawa Timur,c3c7f6dd-6a25-4742-8cb8-9e4ef7f528df,Pasuruan,Pasuruan,Sidoarjo,Probolinggo
+Jawa Timur,d10bb4c6-c3fa-489f-9a7d-8058ce3eedeb,Ponorogo,Trenggalek,Madiun,Magetan
+Jawa Timur,39b2e54c-ee18-4e84-ab0e-f2020c58d64b,Probolinggo,Probolinggo,Lumajang,Pasuruan
+Jawa Timur,b4ff2e2e-424a-4a44-9aca-3171cd9b5a84,Probolinggo,Probolinggo,Pasuruan,Lumajang
+Jawa Timur,ce800d2d-6905-4333-97d9-f297e6d0b115,Sampang,Pamekasan,Bangkalan,Sumenep
+Jawa Timur,0c51be85-7a6e-4fe6-b802-4bbec5d5dcda,Sidoarjo,Surabaya,Mojokerto,Mojokerto
+Jawa Timur,5484dab3-0aa4-4f22-9e50-1aff2c1ee29e,Situbondo,Bondowoso,Jember,Banyuwangi
+Jawa Timur,0d43961c-e667-48f3-9c63-125b79fe8625,Sumenep,Pamekasan,Sampang,Situbondo
+Jawa Timur,0822446a-8784-4af4-bc88-9f9294fca382,Surabaya,Sidoarjo,Gresik,Bangkalan
+Jawa Timur,ee40d220-096b-4dd4-9f48-2857fd99e66b,Trenggalek,Ponorogo,Tulungagung,Pacitan
+Jawa Timur,18b52378-af35-4fa3-9917-ac8ce51fe30a,Tuban,Bojonegoro,Rembang,Lamongan
+Jawa Timur,4a771364-1ef3-411f-a0c0-abc13b7f7201,Tulungagung,Blitar,Trenggalek,Blitar
+Kalimantan Barat,55417efa-f26e-4902-aa54-5562475f23f0,Bengkayang,Sambas,Landak,Singkawang
+Kalimantan Barat,0ed7cc32-4ec3-4e94-87a8-1360731848d3,Kapuas Hulu,Sintang,Melawi,Murung Raya
+Kalimantan Barat,58fec115-306a-407f-8045-e75e8842643c,Kayong Utara,Ketapang,Kubu Raya,Pontianak
+Kalimantan Barat,71250e54-f3db-4d26-ba4c-aa9f050bfb0a,Ketapang,Kayong Utara,Lamandau,Sukamara
+Kalimantan Barat,32c1ca11-9eee-4456-837c-321ba1d38d97,Kubu Raya,Pontianak,Mempawah,Landak
+Kalimantan Barat,83b08dc3-7a3f-4573-a2b0-b06da2b62f2a,Landak,Pontianak,Mempawah,Bengkayang
+Kalimantan Barat,a2788fc8-f252-40ae-a542-10a8b41d3749,Melawi,Sintang,Sekadau,Sanggau
+Kalimantan Barat,68e5a7ea-d8ad-417b-9426-538d74ed734d,Mempawah,Pontianak,Landak,Kubu Raya
+Kalimantan Barat,d6e23064-c4ac-47ca-9e77-1ee297160461,Pontianak,Mempawah,Kubu Raya,Landak
+Kalimantan Barat,50f46107-053c-433b-8147-9152c594b430,Sambas,Bengkayang,Singkawang,Landak
+Kalimantan Barat,05614c2f-f665-46b3-9e50-b3bfb2806fa8,Sanggau,Sekadau,Landak,Kubu Raya
+Kalimantan Barat,e890e485-3233-4740-8510-ecdd10602369,Sekadau,Sanggau,Melawi,Sintang
+Kalimantan Barat,c2afea99-4f22-496e-b9b7-f0d975149b2d,Singkawang,Sambas,Mempawah,Bengkayang
+Kalimantan Barat,f2fcd247-aef4-4420-a25d-7a8c4b9d56b8,Sintang,Melawi,Sekadau,Kapuas Hulu
+Kalimantan Selatan,e449315c-1123-4688-8e03-1a261bab07db,Balangan,Hulu Sungai Tengah,Hulu Sungai Utara,Tabalong
+Kalimantan Selatan,9196d41c-5dfd-41b4-b2c2-1f0dea7d2195,Banjar,Banjar Baru,Tapin,Banjarmasin
+Kalimantan Selatan,15c712bf-ad2e-417c-924d-1a54ce5ed45a,Banjar Baru,Banjarmasin,Banjar,Tanah Laut
+Kalimantan Selatan,434e6028-4cd9-449b-b571-38e8e9a182e1,Banjarmasin,Barito Kuala,Banjar Baru,Banjar
+Kalimantan Selatan,0e33a0ef-ea56-46e2-a371-f9d46f2c1537,Barito Kuala,Banjarmasin,Tapin,Banjar Baru
+Kalimantan Selatan,43ae3447-40e6-4f2e-8cc9-b903ee7c16b5,Baru,Hulu Sungai Tengah,Balangan,Tanah Bumbu
+Kalimantan Selatan,8e137ac9-3ad3-4596-8e2e-297dc645ee98,Hulu Sungai Selatan,Tapin,Hulu Sungai Utara,Hulu Sungai Tengah
+Kalimantan Selatan,3b5a3b7d-e85c-4b66-985c-9f450f5cbe70,Hulu Sungai Tengah,Balangan,Hulu Sungai Selatan,Hulu Sungai Utara
+Kalimantan Selatan,4bfc5f24-da2c-485b-b6cd-4807ed33899b,Hulu Sungai Utara,Hulu Sungai Selatan,Hulu Sungai Tengah,Barito Timur
+Kalimantan Selatan,4e52d01d-55aa-46ba-8767-48428e90e6e6,Tabalong,Barito Timur,Balangan,Hulu Sungai Utara
+Kalimantan Selatan,b6aaf7a0-1bfe-488d-89e8-a4afe6eec0ec,Tanah Bumbu,Banjar,Baru,Tapin
+Kalimantan Selatan,e0e2fc25-a0d7-4e67-8658-cdd09352c2f5,Tanah Laut,Banjar Baru,Banjar,Banjarmasin
+Kalimantan Selatan,a9948c9e-06ec-446a-8c61-ff58b0b63463,Tapin,Hulu Sungai Selatan,Barito Kuala,Banjar
+Kalimantan Tengah,86368c94-26fc-40b2-bca2-7cfc7dad432e,Barito Selatan,Barito Timur,Kapuas,Hulu Sungai Utara
+Kalimantan Tengah,ed34c789-e7a8-414a-90b3-eee992f3faca,Barito Timur,Barito Selatan,Tabalong,Hulu Sungai Utara
+Kalimantan Tengah,16978779-90fa-4090-8008-4b6e8583e583,Barito Utara,Kutai Barat,Barito Selatan,Tabalong
+Kalimantan Tengah,7f91d94b-7025-45b1-81fd-12c29de2e532,Gunung Mas,Katingan,Palangka Raya,Kapuas
+Kalimantan Tengah,1712d121-7c1b-4be7-ab91-edc51822a8bc,Kapuas,Barito Selatan,Palangka Raya,Barito Timur
+Kalimantan Tengah,61931026-546e-401f-9d6e-59f7da283494,Katingan,Palangka Raya,waringin Timur,Gunung Mas
+Kalimantan Tengah,e7f87fd4-3d82-4766-8906-6da29a25ecf8,Lamandau,Ketapang,Sukamara,waringin Barat
+Kalimantan Tengah,1cab847d-26c8-47a1-af91-4c0d4a322edc,Murung Raya,Mahakam Hulu,Barito Utara,Gunung Mas
+Kalimantan Tengah,17e55401-6c1b-4f51-bd08-e3d7dea4879e,Palangka Raya,Katingan,Kapuas,Gunung Mas
+Kalimantan Tengah,98e6c1d6-106f-47ca-ad8e-3435e324c918,Pulang Pisau,Banjarmasin,Barito Kuala,Banjar Baru
+Kalimantan Tengah,7e8fd16e-fe5f-453c-bdb2-a2dc99634dd0,Seruyan,waringin Barat,waringin Timur,Sukamara
+Kalimantan Tengah,f52acb8f-0165-4025-80e6-dfc48d4958de,Sukamara,waringin Barat,Lamandau,Seruyan
+Kalimantan Tengah,f5868376-1226-4cbc-8e77-a50f30c9a929,waringin Barat,Sukamara,Seruyan,Lamandau
+Kalimantan Tengah,974fe6bb-916f-46fa-be9a-2c57ebe5532a,waringin Timur,Katingan,Seruyan,Palangka Raya
+Kalimantan Timur,513f150c-4fba-415a-9a68-75b755b4f506,Balikpapan,Penajam Paser Utara,Paser,Samarinda
+Kalimantan Timur,3c17e708-476b-444e-8dde-afab2f22c5b5,Berau,Bulungan,Kutai Timur,Tarakan
+Kalimantan Timur,532a2053-0cb4-47a1-a604-0589125f6545,Bontang,Samarinda,Kutai Kartanegara,Kutai Timur
+Kalimantan Timur,a8435342-bdc7-4c96-9c75-c4f8f031d8f7,Kutai Barat,Barito Utara,Mahakam Hulu,Paser
+Kalimantan Timur,27abf39f-2956-443a-9294-0424a220768a,Kutai Kartanegara,Samarinda,Balikpapan,Bontang
+Kalimantan Timur,4df77b7d-1035-47ec-b236-e0d685c5831c,Kutai Timur,Bontang,Berau,Samarinda
+Kalimantan Timur,38649d3f-8a5c-4cdf-9282-a982bce193e7,Mahakam Hulu,Kutai Barat,Murung Raya,Barito Utara
+Kalimantan Timur,7c321023-0b1e-405e-8050-cfeac36f973c,Paser,Penajam Paser Utara,Balikpapan,Tabalong
+Kalimantan Timur,09931c18-622d-4770-94b8-351c3b1cb60a,Penajam Paser Utara,Balikpapan,Paser,Kutai Kartanegara
+Kalimantan Timur,9f20ece5-d293-4345-ab25-e9fc1155c818,Samarinda,Kutai Kartanegara,Balikpapan,Bontang
+Kalimantan Utara,569f706e-d4c2-4e22-befa-eb0eca6d8508,Bulungan,Tarakan,Tana Tidung,Berau
+Kalimantan Utara,c6211916-4da5-4343-85e0-4d716abe04eb,Malinau,Berau,Bulungan,Tana Tidung
+Kalimantan Utara,d0ca647d-7d25-43d1-8fdf-7ecdca02ffa9,Nunukan,Tana Tidung,Tarakan,Bulungan
+Kalimantan Utara,117694bc-451f-4f5d-b6b5-4af27fd18757,Tana Tidung,Bulungan,Nunukan,Tarakan
+Kalimantan Utara,a000ca99-a138-4532-847c-7fff9b0746a1,Tarakan,Bulungan,Tana Tidung,Nunukan
+Kepulauan Bangka Belitung,54a779d9-7ff5-4ef5-8dc1-a2d47ced83f9,Bangka,Pangkal Pinang,Bangka Barat,Bangka Tengah
+Kepulauan Bangka Belitung,3ae4a787-df26-4359-bb59-4e2d3c810166,Bangka Barat,Bangka,Pangkal Pinang,Bangka Tengah
+Kepulauan Bangka Belitung,3fede550-2b3e-4efe-bb59-e04274813737,Bangka Selatan,Bangka Tengah,Pangkal Pinang,Bangka
+Kepulauan Bangka Belitung,f6b2103d-d366-4afb-8651-fd83a5dabde2,Bangka Tengah,Pangkal Pinang,Bangka Selatan,Bangka
+Kepulauan Bangka Belitung,91cda565-8920-4415-af03-a0016779b97c,Belitung,Belitung Timur,Bangka Tengah,Bangka Selatan
+Kepulauan Bangka Belitung,1f14d0ac-8f13-4125-81bd-7e6abe17513e,Belitung Timur,Belitung,Bangka Tengah,Bangka Selatan
+Kepulauan Bangka Belitung,e180d7ae-806a-4bc3-ac2d-9976ba48adce,Pangkal Pinang,Bangka Tengah,Bangka,Bangka Selatan
+Kepulauan Riau,654dbd43-0da6-44a1-8fa6-3f2879b8fbdf,Batam,Tanjung Pinang,Bintan,Karimun
+Kepulauan Riau,a0064fb5-0168-45f2-babc-03ab108c4bca,Bintan,Tanjung Pinang,Batam,Karimun
+Kepulauan Riau,87fcf1eb-7006-4362-90d4-57bce3732127,Karimun,Batam,Kepulauan Meranti,Tanjung Pinang
+Kepulauan Riau,61301f12-3c77-45f0-958c-2cca0e009dcf,Kepulauan Anambas,Bintan,Tanjung Pinang,Batam
+Kepulauan Riau,494d3a47-578f-4b70-8467-e7bb443e0a19,Lingga,Tanjung Jabung Timur,Muaro Jambi,Indragiri Hilir
+Kepulauan Riau,258fabeb-5273-4ed7-a42d-8f20e17c3a15,Natuna,Kepulauan Anambas,Sambas,Singkawang
+Kepulauan Riau,1bbe4725-7759-49d0-b1fe-5416d4b9c5f3,Tanjung Pinang,Bintan,Batam,Karimun
+Lampung,e499ab41-13b6-48b6-9e69-029abfa47e0e,Bandar Lampung,Pesawaran,Lampung Selatan,Metro
+Lampung,cf6d7310-0b5b-4cc3-92e1-bee18d158b92,Lampung Barat,Pesisir Barat,Tanggamus,Ogan Komering Ulu Selatan
+Lampung,b020ec28-4169-4741-877d-33567b3e93b3,Lampung Selatan,Bandar Lampung,Pesawaran,Metro
+Lampung,b1cff26f-f1f7-4e82-aabb-d96512d4217b,Lampung Tengah,Metro,Tulang Bawang Barat,Lampung Utara
+Lampung,cdafa062-921a-4da0-93c8-5e931fc5203e,Lampung Timur,Metro,Lampung Selatan,Lampung Tengah
+Lampung,75bf7201-f0cd-457f-9fc3-86615f64936e,Lampung Utara,Way Kanan,Lampung Tengah,Tulang Bawang Barat
+Lampung,837bcdb9-0768-471a-9f91-5035695c5568,Mesuji,Tulangbawang,Tulang Bawang Barat,Ogan Komering Ulu Timur
+Lampung,f30f60eb-5010-48b2-a070-bdbea7194599,Metro,Lampung Tengah,Bandar Lampung,Pesawaran
+Lampung,e7f9f1a2-5f9a-41f9-b9a3-1508093c7718,Pesawaran,Bandar Lampung,Pringsewu,Metro
+Lampung,9459e295-a98f-4db9-b13e-17bb8a259dd3,Pesisir Barat,Lampung Barat,Ogan Komering Ulu Selatan,Kaur
+Lampung,88ec8911-a5a3-460f-9303-e49674918267,Pringsewu,Pesawaran,Tanggamus,Bandar Lampung
+Lampung,5450a8d2-fb19-49ba-874a-6605ff1dac19,Tanggamus,Pringsewu,Lampung Barat,Pesawaran
+Lampung,e85d3e02-c07a-40b4-8423-c1d52042b4f9,Tulang Bawang Barat,Lampung Tengah,Mesuji,Tulangbawang
+Lampung,e51935c6-d082-4a29-a836-cb4d994e0fcc,Tulangbawang,Mesuji,Tulang Bawang Barat,Lampung Tengah
+Lampung,6d43fc7c-ae14-4f67-84b4-f1e3b18f0752,Way Kanan,Lampung Utara,Ogan Komering Ulu,Ogan Komering Ulu Selatan
+Maluku,64063675-44fd-440b-b011-e99feebd4ddc,Ambon,Seram Bagian Barat,Maluku Tengah,Buru
+Maluku,294a4303-2c49-4524-a2b1-2480a263017f,Buru,Buru Selatan,Ambon,Seram Bagian Barat
+Maluku,34eddebd-5767-4cbb-837f-d188dac06c16,Buru Selatan,Buru,Ambon,Kepulauan Sula
+Maluku,cff25b2d-a87f-4385-9a35-a41bb75e72b4,Kepulauan Aru,Maluku Tenggara,Tual,Dogiyai
+Maluku,cb745db9-5cd8-4ef6-90ed-8ab222257f3e,Maluku Barat Daya,Alor,Belu,Malaka
+Maluku,7e975cf4-acc8-4a06-ac55-8cc50c9752a0,Maluku Tengah,Seram Bagian Barat,Ambon,Seram Bagian Timur
+Maluku,3df057b3-80a8-43bc-a07d-3be47bf65223,Maluku Tenggara,Tual,Kepulauan Aru,Maluku Tenggara Barat
+Maluku,20d88473-9d11-4e48-95b6-45403b38db46,Maluku Tenggara Barat,Maluku Tenggara,Tual,Kepulauan Aru
+Maluku,9d898681-d07d-4fa7-b9e0-600892e68684,Seram Bagian Barat,Maluku Tengah,Ambon,Buru
+Maluku,65065463-b9d0-409d-908b-2ec1fa27af55,Seram Bagian Timur,Maluku Tengah,Raja Ampat,Fakfak
+Maluku,8eb1a5d8-8a59-4ff2-9b9f-00452eaf9627,Tual,Maluku Tenggara,Kepulauan Aru,Kaimana
+Maluku Utara,76798dac-9453-4101-971d-5a476d2737f4,Halmahera Barat,Halmahera Utara,Ternate,Tidore Kepulauan
+Maluku Utara,1eeae8ba-1063-43e5-850f-7e25d51e581f,Halmahera Selatan,Halmahera Tengah,Tidore Kepulauan,Ternate
+Maluku Utara,26bc8563-5f8d-4d42-ba9d-6b8a75455856,Halmahera Tengah,Tidore Kepulauan,Ternate,Halmahera Barat
+Maluku Utara,38b2afa8-213b-4c85-8b81-e018579a8c08,Halmahera Timur,Halmahera Utara,Pulau Morotai,Halmahera Barat
+Maluku Utara,6d5fa9b8-75fb-4c8e-9f10-3bec1f741090,Halmahera Utara,Halmahera Barat,Pulau Morotai,Halmahera Timur
+Maluku Utara,d2f213b9-1502-49e0-a1d0-f7d42a80aae8,Kepulauan Sula,Pulau Taliabu,Buru,Buru Selatan
+Maluku Utara,a08720b7-5e81-4a90-83d8-ce7bbc44fcac,Pulau Morotai,Halmahera Utara,Halmahera Timur,Halmahera Barat
+Maluku Utara,f0f5412a-30e0-43ae-aac3-21f3c4e6ba43,Pulau Taliabu,Kepulauan Sula,Banggai Laut,Banggai Kepulauan
+Maluku Utara,61081dc9-d61c-4bcd-b56a-27ce9d24842e,Ternate,Tidore Kepulauan,Halmahera Barat,Halmahera Tengah
+Maluku Utara,de2e5f37-3847-40a6-86ef-b0076d19f56b,Tidore Kepulauan,Halmahera Tengah,Ternate,Halmahera Barat
+Nanggroe Aceh Darussalam,27b2bd1f-3dac-4b2f-96ec-0c8bccab47be,Aceh Barat,Nagan Raya,Pidie,Aceh Jaya
+Nanggroe Aceh Darussalam,b41cbd4e-d5ab-4d33-86b6-e2666c8a70f3,Aceh Barat Daya,Nagan Raya,Gayo Lues,Aceh Tengah
+Nanggroe Aceh Darussalam,3c784961-5690-4fba-a682-d461b4c9a2e5,Aceh Besar,Banda Aceh,Sabang,Aceh Jaya
+Nanggroe Aceh Darussalam,1779364b-821f-49a9-96fd-e183b957bca0,Aceh Jaya,Pidie,Aceh Besar,Pidie Jaya
+Nanggroe Aceh Darussalam,ad599092-c3f0-4019-8e3a-52cb5a73e2b5,Aceh Selatan,Aceh Tenggara,Subulussalam,Gayo Lues
+Nanggroe Aceh Darussalam,7251f0c1-d49f-4e35-8e8e-51b9041deb06,Aceh Singkil,Pakpak Bharat,Subulussalam,Humbang Hasundutan
+Nanggroe Aceh Darussalam,236c76e7-84f8-4553-9db0-0cac9acf8efc,Aceh Tamiang,Langsa,Aceh Timur,Gayo Lues
+Nanggroe Aceh Darussalam,fc5b4eb7-bf78-423d-b383-989ddde171a7,Aceh Tengah,Bener Meriah,Nagan Raya,Aceh Utara
+Nanggroe Aceh Darussalam,ac556c51-a206-4467-a2e5-906e8f2e3579,Aceh Tenggara,Aceh Selatan,Langkat,Subulussalam
+Nanggroe Aceh Darussalam,48363434-24d5-4d9b-9859-998606b7fb48,Aceh Timur,Langsa,Aceh Tamiang,Aceh Utara
+Nanggroe Aceh Darussalam,60acd8e0-d714-4a8d-930a-e24abd4c470c,Aceh Utara,Lhokseumawe,Bener Meriah,Aceh Tengah
+Nanggroe Aceh Darussalam,02366a3f-9bdd-4860-9274-60713b759720,Banda Aceh,Aceh Besar,Sabang,Aceh Jaya
+Nanggroe Aceh Darussalam,55e326d2-3947-4f7b-8351-3f775d8a68eb,Bener Meriah,Aceh Tengah,Aceh Utara,Bireuen
+Nanggroe Aceh Darussalam,a504a669-3af4-481f-87f2-8f48d44b0758,Bireuen,Pidie Jaya,Bener Meriah,Pidie
+Nanggroe Aceh Darussalam,ae71c6e7-65b6-458f-9d8d-dcd82d91fabf,Gayo Lues,Aceh Barat Daya,Aceh Tamiang,Aceh Tenggara
+Nanggroe Aceh Darussalam,803fa11f-0d53-4f01-b095-945b38a2ae41,Langsa,Aceh Tamiang,Aceh Timur,Gayo Lues
+Nanggroe Aceh Darussalam,5f124c62-1f6e-4203-b6b5-76e71a53d3bc,Lhokseumawe,Aceh Utara,Bener Meriah,Bireuen
+Nanggroe Aceh Darussalam,7d2d6410-3159-4f42-9747-c703833e4b18,Nagan Raya,Aceh Barat,Aceh Tengah,Aceh Barat Daya
+Nanggroe Aceh Darussalam,1736e004-34be-4027-9f57-7809ec8fc7ed,Pidie,Pidie Jaya,Bireuen,Aceh Jaya
+Nanggroe Aceh Darussalam,9033a89f-bf2f-473c-a471-407b440ecd59,Pidie Jaya,Pidie,Bireuen,Aceh Jaya
+Nanggroe Aceh Darussalam,42e85e75-df9c-44bc-9c8b-b621e39553c0,Sabang,Banda Aceh,Aceh Besar,Aceh Jaya
+Nanggroe Aceh Darussalam,82d6d4db-d86c-454f-91d2-4e07ec1b5be9,Simeulue,Aceh Selatan,Aceh Barat Daya,Nagan Raya
+Nanggroe Aceh Darussalam,915b6a81-62fb-4396-bc1f-a724f31adb57,Subulussalam,Aceh Singkil,Dairi,Pakpak Bharat
+Nusa Tenggara Barat,4d7bb71c-ddde-428f-b76f-ee8050295c5e,Bima,Bima,Dompu,Manggarai Barat
+Nusa Tenggara Barat,b4cb1ac9-e129-4686-b079-62ee90145d17,Bima,Bima,Dompu,Sumba Barat Daya
+Nusa Tenggara Barat,44abefac-1ce1-4d7a-9792-895835ddf55a,Dompu,Bima,Bima,Sumbawa
+Nusa Tenggara Barat,1772d7e5-8f8b-4d89-a99d-cdf8602c8a69,Lombok Barat,Mataram,Lombok Tengah,Lombok Timur
+Nusa Tenggara Barat,ec697ed6-05a6-4aab-89d4-e6281db5c803,Lombok Tengah,Lombok Barat,Mataram,Lombok Timur
+Nusa Tenggara Barat,64321a9c-86f9-40e3-84f2-cbcadf181ea1,Lombok Timur,Lombok Utara,Lombok Tengah,Mataram
+Nusa Tenggara Barat,cb78bf41-9766-477f-adef-5e3de32086f8,Lombok Utara,Lombok Timur,Lombok Tengah,Mataram
+Nusa Tenggara Barat,2a0572d6-7bf5-47cc-9206-c95e83f2581b,Mataram,Lombok Barat,Lombok Tengah,Lombok Utara
+Nusa Tenggara Barat,d124a706-dffc-4af5-ae98-c9d51e9c68db,Sumbawa,Sumbawa Barat,Lombok Timur,Lombok Utara
+Nusa Tenggara Barat,f2236c23-45f5-4653-b87c-12e94c853313,Sumbawa Barat,Sumbawa,Lombok Timur,Lombok Tengah
+Nusa Tenggara Timur,a0c2809c-78d4-415c-851d-ed872464661c,Alor,Belu,Timor Tengah Utara,Lembata
+Nusa Tenggara Timur,df6cc244-0ce6-47c1-9887-029632fc4d1a,Belu,Malaka,Timor Tengah Utara,Timor Tengah Selatan
+Nusa Tenggara Timur,69f47e43-ee5f-4868-af68-7adfc64f69ab,Ende,Nagekeo,Ngada,Sikka
+Nusa Tenggara Timur,68d2a57e-99ac-4731-b1c5-0d9f8036e98d,Flores Timur,Lembata,Sikka,Ende
+Nusa Tenggara Timur,7e21de8d-dfbd-4fe5-843f-d509320ee4ff,Kupang,Kupang,Timor Tengah Selatan,Timor Tengah Utara
+Nusa Tenggara Timur,a84b908d-c914-4999-8d99-80ea36325974,Kupang,Kupang,Rote Ndao,Timor Tengah Selatan
+Nusa Tenggara Timur,f3b2f09d-2232-471d-aa75-c44fc44c1b24,Lembata,Flores Timur,Alor,Sikka
+Nusa Tenggara Timur,28321002-f0eb-4aef-8fbe-1afbcbfc0ab5,Malaka,Belu,Timor Tengah Utara,Timor Tengah Selatan
+Nusa Tenggara Timur,5b49065a-460f-489d-82e6-fffec58316da,Manggarai,Manggarai Timur,Manggarai Barat,Ngada
+Nusa Tenggara Timur,9ec300ad-4fee-4060-b5cc-d96d6f37313d,Manggarai Barat,Manggarai,Manggarai Timur,Sumba Tengah
+Nusa Tenggara Timur,f5f042a7-7477-49b1-ab70-f3bdc1108e68,Manggarai Timur,Manggarai,Ngada,Nagekeo
+Nusa Tenggara Timur,bbc0d013-f66e-4fca-9ea7-329c3ef5ee86,Nagekeo,Ngada,Ende,Manggarai Timur
+Nusa Tenggara Timur,2ac1690b-0555-4886-8538-ffaa25938fe6,Ngada,Nagekeo,Manggarai Timur,Manggarai
+Nusa Tenggara Timur,ecc4998a-c758-410f-8608-1444a2179b32,Rote Ndao,Kupang,Kupang,Sabu Raijua
+Nusa Tenggara Timur,4326f2ae-570d-49b9-a40d-ee51fea1909e,Sabu Raijua,Rote Ndao,Sumba Timur,Ende
+Nusa Tenggara Timur,18ea7486-d3bd-4853-9793-585cd3633f5d,Sikka,Ende,Flores Timur,Nagekeo
+Nusa Tenggara Timur,cffd4d83-3f09-4f88-b89d-f909b89e08dd,Sumba Barat,Sumba Tengah,Sumba Barat Daya,Sumba Timur
+Nusa Tenggara Timur,7f9bd22f-b599-42d3-bf6a-e4ea27b554ea,Sumba Barat Daya,Sumba Barat,Sumba Tengah,Bima
+Nusa Tenggara Timur,84c6016d-40cc-4b01-a3a5-637386671788,Sumba Tengah,Sumba Barat,Sumba Barat Daya,Sumba Timur
+Nusa Tenggara Timur,4ebfb305-dfdd-4590-9854-19722127a292,Sumba Timur,Sumba Tengah,Sumba Barat,Sumba Barat Daya
+Nusa Tenggara Timur,58ad0c0e-d973-42be-9ad4-5eace6384ae1,Timor Tengah Selatan,Timor Tengah Utara,Malaka,Kupang
+Nusa Tenggara Timur,8d83147b-2482-4e63-9641-048f996e069c,Timor Tengah Utara,Belu,Malaka,Timor Tengah Selatan
+Papua,4cf641d5-276e-4b70-b0eb-3c1136f14d4b,Biak Numfor,Supiori,Kepulauan Yapen,Waropen
+Papua,016280d7-493e-4183-8961-8b2bab153688,Jayapura,Keerom,Jayapura,Yalimo
+Papua,f015f2ce-072f-45b6-9892-365c868d190d,Jayapura,Keerom,Jayapura,Sarmi
+Papua,0b07141c-5929-4fbd-b060-46e5d5e39d2d,Keerom,Jayapura,Jayapura,Pegunungan Bintang
+Papua,d9bd2c4c-220f-4f12-aa9e-4c52eea9bf13,Kepulauan Yapen,Biak Numfor,Waropen,Supiori
+Papua,f1f8b12c-8e01-4d07-9799-6a1083ef9b34,Mamberamo Raya,Waropen,Puncak Jaya,Sarmi
+Papua,d693a576-f4af-4246-90de-49e7aa8c1467,Sarmi,Jayapura,Mamberamo Tengah,Mamberamo Raya
+Papua,003fd071-0f0d-4355-9593-02c0ebe289b7,Supiori,Biak Numfor,Kepulauan Yapen,Manokwari Selatan
+Papua,1c98476c-b406-44c9-ae4b-8699f007443b,Waropen,Intan Jaya,Kepulauan Yapen,Puncak
+Papua Barat,899feb49-2495-49aa-9355-5e7db9a37284,Fakfak,Sorong Selatan,Teluk Bintuni,Kaimana
+Papua Barat,8f26076c-c883-435f-92bb-3a3c46cbe52f,Kaimana,Teluk Wondama,Fakfak,Dogiyai
+Papua Barat,b0ed3d2f-6ac4-4e06-82aa-fd2243acc38e,Manokwari,Pegunungan Arfak,Manokwari Selatan,Teluk Bintuni
+Papua Barat,1e4040e2-2656-4483-bc3c-87e37c125929,Manokwari Selatan,Pegunungan Arfak,Teluk Bintuni,Manokwari
+Papua Barat,e59048c4-5108-435c-82c2-595c3dd526c8,Pegunungan Arfak,Manokwari,Manokwari Selatan,Teluk Bintuni
+Papua Barat,45905f7b-7ae3-48a8-bbf5-a4d69639ac18,Teluk Bintuni,Manokwari Selatan,Pegunungan Arfak,Manokwari
+Papua Barat,f9f59d24-7772-4556-b81f-bb8c4abae9ef,Teluk Wondama,Manokwari Selatan,Kaimana,Nabire
+Papua Barat Daya,0b4856b0-e36d-4d72-8bf8-bf0625060c1c,Maybrat,Sorong Selatan,Tambrauw,Sorong
+Papua Barat Daya,f6b05507-762c-4b81-bcc4-2f4e32674818,Raja Ampat,Sorong,Seram Bagian Timur,Sorong
+Papua Barat Daya,011a23a3-8f7d-4838-9313-d873f43b43db,Sorong,Sorong,Maybrat,Sorong Selatan
+Papua Barat Daya,9aae3b07-ea35-424f-9a5e-e8c502980e72,Sorong,Sorong,Maybrat,Sorong Selatan
+Papua Barat Daya,300fbe99-b559-4b03-b6ae-730360e548f8,Sorong Selatan,Maybrat,Sorong,Tambrauw
+Papua Barat Daya,9d601842-b9e9-4c70-8d56-0b4aa12fea01,Tambrauw,Maybrat,Sorong Selatan,Sorong
+Papua Pegunungan,c2f541cf-fc58-4d4c-89c9-248a8865318a,Jayawijaya,Mamberamo Tengah,Yalimo,Lanny Jaya
+Papua Pegunungan,315c99c3-f97b-4dab-8dd1-a9ad934c36f3,Lanny Jaya,Tolikara,Nduga,Jayawijaya
+Papua Pegunungan,a0ddc372-26d0-4eee-85a1-a640ac10489c,Mamberamo Tengah,Yalimo,Jayawijaya,Tolikara
+Papua Pegunungan,963af3e9-cb01-4fe2-901f-556694bc91d3,Nduga,Lanny Jaya,Jayawijaya,Asmat
+Papua Pegunungan,1e3b27be-83c6-49bb-a12b-a515a85805d7,Pegunungan Bintang,Yahukimo,Yalimo,Boven Digoel
+Papua Pegunungan,06d2a5ad-7729-4cd5-84d2-865af31758cf,Tolikara,Lanny Jaya,Puncak Jaya,Mamberamo Tengah
+Papua Pegunungan,05a846fe-da80-4ccb-a163-f1860c8a3cbf,Yahukimo,Pegunungan Bintang,Yalimo,Jayawijaya
+Papua Pegunungan,ec81ba97-2b85-4a92-9600-eea9839ec4fc,Yalimo,Mamberamo Tengah,Jayawijaya,Yahukimo
+Papua Selatan,5b92b12c-a530-4994-aac2-9d99d025b651,Asmat,Nduga,Yahukimo,Jayawijaya
+Papua Selatan,fc97017b-479f-4ce2-8db8-3bb9e7fe0602,Boven Digoel,Pegunungan Bintang,Mappi,Yahukimo
+Papua Selatan,c7bef644-7308-4b00-97f5-0fc2a0d43152,Mappi,Merauke,Boven Digoel,Asmat
+Papua Selatan,1cac22a7-c649-41a8-a34d-77111c9879d8,Merauke,Mappi,Boven Digoel,Asmat
+Papua Tengah,2593d235-7a2f-4b0e-812f-edd0baa252c8,Deiyai,Paniai,Mimika,Intan Jaya
+Papua Tengah,51ed3cda-3281-480a-bcb8-e17409ce484d,Dogiyai,Nabire,Deiyai,Paniai
+Papua Tengah,b88299f5-0e95-44b2-b6ea-b5501f407033,Intan Jaya,Paniai,Puncak,Waropen
+Papua Tengah,e39f793f-ea95-4ee8-805e-ddfd7aa64571,Mimika,Deiyai,Paniai,Intan Jaya
+Papua Tengah,83537876-28bf-4693-892f-b1a5a16c39e9,Nabire,Dogiyai,Paniai,Deiyai
+Papua Tengah,85a98bcf-415c-441e-939c-ea8bc6decefe,Paniai,Deiyai,Intan Jaya,Mimika
+Papua Tengah,940ee6dd-d3d5-40d6-9fbf-d78738fae29e,Puncak,Puncak Jaya,Intan Jaya,Paniai
+Papua Tengah,e9590a45-369f-47f0-8a7c-84525f0410cb,Puncak Jaya,Puncak,Tolikara,Lanny Jaya
+Riau,35b3f5fc-e2ba-4bfb-a5d4-0a1e9aec64c3,Bengkalis,Dumai,Siak,Pekanbaru
+Riau,ce96752c-263d-48f4-9d72-9a9e8b3d23b3,Dumai,Bengkalis,Siak,Rokan Hilir
+Riau,c465ad8d-10ab-4d3c-b9c4-0068281acdd8,Indragiri Hilir,Indragiri Hulu,Tanjung Jabung Barat,Pelalawan
+Riau,98e81989-4972-4c0a-9e8d-954090141171,Indragiri Hulu,Pelalawan,Indragiri Hilir,Kuantan Singingi
+Riau,80761018-ed62-4d76-a1c5-e4a18e812a4f,Kampar,Pekanbaru,Lima Puluh,Payakumbuh
+Riau,8433f6dd-a06e-430a-aadf-b94d31f7b89c,Kepulauan Meranti,Siak,Karimun,Pelalawan
+Riau,e28b912f-d791-4533-b57d-63cc55168d8a,Kuantan Singingi,Sijunjung,Sawah Lunto,Kampar
+Riau,79c660ef-ab9a-44e5-9f9d-623a766e5b72,Pekanbaru,Kampar,Siak,Bengkalis
+Riau,27589902-3df6-4faf-877f-2d8a869ef7c5,Pelalawan,Indragiri Hulu,Pekanbaru,Siak
+Riau,43fa2306-9227-49e1-9db1-a168639037d2,Rokan Hilir,Labuhan Batu,Labuhan Batu Selatan,Dumai
+Riau,9b2c434f-c8a6-47a6-b570-9955dfb26c8a,Rokan Hulu,Pasaman,Padang Lawas,Lima Puluh
+Riau,324b0890-7e56-4c87-9e78-813083691afa,Siak,Bengkalis,Pekanbaru,Kepulauan Meranti
+Sulawesi Barat,f1a83949-ff3a-4a94-aab6-b0a5d6f32d1a,Majene,Polewali Mandar,Mamasa,Mamuju
+Sulawesi Barat,6e1799e3-3cf1-4c37-90da-5423050fc922,Mamasa,Polewali Mandar,Tana Toraja,Majene
+Sulawesi Barat,1a57d41d-49a6-42a4-8c22-9a522472c77d,Mamuju,Mamuju Tengah,Mamasa,Toraja Utara
+Sulawesi Barat,bdd1cbe1-4832-4812-89c5-893909cccc7e,Mamuju Tengah,Mamuju,Mamuju Utara,Sigi
+Sulawesi Barat,88c9cf0b-2cc3-4bff-9d82-f83f15325b1d,Mamuju Utara,Mamuju Tengah,Sigi,Palu
+Sulawesi Barat,c1731294-7e3c-4a2f-af5f-683727740b3b,Polewali Mandar,Majene,Mamasa,Pinrang
+Sulawesi Selatan,bf9fe28c-fe29-4e79-a622-a385f0111630,Bantaeng,Bulukumba,Jeneponto,Gowa
+Sulawesi Selatan,ed961409-450b-4923-bde1-cdd54076fd3b,Barru,Soppeng,Pangkajene Dan Kepulauan,Parepare
+Sulawesi Selatan,61b92d12-91c9-454f-ae75-2be4e7e76363,Bone,Soppeng,Sinjai,Barru
+Sulawesi Selatan,b643d67f-2257-47b6-822a-1ddd59f20c17,Bulukumba,Sinjai,Bantaeng,Gowa
+Sulawesi Selatan,61050d7f-bd4c-495f-994a-5b6b75bf55c4,Enrekang,Pinrang,Sidenreng Rappang,Luwu
+Sulawesi Selatan,b4260f4f-49e1-4be0-852b-eb67f7c9ef83,Gowa,Takalar,Maros,Makassar
+Sulawesi Selatan,392840f8-8d51-4ce8-9016-4f5100666506,Jeneponto,Bantaeng,Takalar,Gowa
+Sulawesi Selatan,1879d3dc-a35b-4f8e-894a-f50362576fc3,Luwu,Palopo,Enrekang,Tana Toraja
+Sulawesi Selatan,e34eddae-2ef1-4a3c-ba92-1b20a6d7d8ce,Luwu Timur,Kolaka Utara,Morowali Utara,Morowali
+Sulawesi Selatan,b38ee496-5896-464c-90f8-009e7f45e359,Luwu Utara,Palopo,Toraja Utara,Tana Toraja
+Sulawesi Selatan,7677c41c-126d-44f6-b249-106f430c0fbc,Makassar,Maros,Takalar,Gowa
+Sulawesi Selatan,4d75d46e-26a7-4dba-8e8e-cc3e7d05dbfb,Maros,Makassar,Gowa,Pangkajene Dan Kepulauan
+Sulawesi Selatan,c778e220-1315-48e5-84ae-0b70232a1afa,Palopo,Toraja Utara,Tana Toraja,Luwu
+Sulawesi Selatan,64f2a715-a2bf-4bf6-9dd8-110e1203b7be,Pangkajene Dan Kepulauan,Maros,Makassar,Barru
+Sulawesi Selatan,1e7d7987-07d8-49a7-a154-c7cf3f2a5479,Parepare,Sidenreng Rappang,Soppeng,Barru
+Sulawesi Selatan,f08bc575-a393-4814-ae4b-d9482510b3a3,Pinrang,Enrekang,Parepare,Sidenreng Rappang
+Sulawesi Selatan,1a6b1fa4-2b4c-481f-8353-80ede1af9bea,Selayar Islands,Bulukumba,Bantaeng,Jeneponto
+Sulawesi Selatan,1c583d49-ef4f-4735-9b88-73924ee570e2,Sidenreng Rappang,Wajo,Parepare,Enrekang
+Sulawesi Selatan,55268527-4755-4b12-bba0-591a4cdb36ae,Sinjai,Bulukumba,Bantaeng,Gowa
+Sulawesi Selatan,a7fac322-a4f7-49db-a477-cdd4c9c36ed2,Soppeng,Barru,Bone,Parepare
+Sulawesi Selatan,19d74ecb-93e0-485b-913e-b9a8037b73df,Takalar,Gowa,Makassar,Jeneponto
+Sulawesi Selatan,e5ea9aa1-ba0c-48f3-afde-1dbcfa074155,Tana Toraja,Toraja Utara,Palopo,Enrekang
+Sulawesi Selatan,1804695f-5d3a-4b46-9c0b-725cf4a14297,Toraja Utara,Tana Toraja,Palopo,Mamasa
+Sulawesi Selatan,527fa12f-7dc2-45c9-adc8-ce39f97f3554,Wajo,Sidenreng Rappang,Soppeng,Parepare
+Sulawesi Tengah,e30bfd7a-c37b-4474-86b7-298cdce61a91,Banggai,Banggai Kepulauan,Banggai Laut,Tojo Una-Una
+Sulawesi Tengah,c1bc2107-60b8-47a9-8220-cfc2720083f8,Banggai Kepulauan,Banggai,Banggai Laut,Tojo Una-Una
+Sulawesi Tengah,7884e7a3-51a0-466d-bba4-70642bd7189a,Banggai Laut,Banggai Kepulauan,Banggai,Pulau Taliabu
+Sulawesi Tengah,5d6d0a11-6f0c-4942-af52-d53eae3cc175,Buol,Pohuwato,Toli-Toli,Boalemo
+Sulawesi Tengah,800a248e-2052-4f9c-8424-8953dd3e6e82,Donggala,Palu,Parigi Moutong,Sigi
+Sulawesi Tengah,39a289e5-5915-4b0d-8e09-b8bf95847ef6,Morowali,Konawe Utara,Luwu Timur,Kolaka Utara
+Sulawesi Tengah,89f487e8-d886-4318-a405-19e82f9a23d3,Morowali Utara,Tojo Una-Una,Poso,Luwu Timur
+Sulawesi Tengah,88f9da91-e0ac-4116-ada4-e4ed73011cc2,Palu,Sigi,Donggala,Mamuju Utara
+Sulawesi Tengah,8f2942a4-b338-4949-a98d-2ab63f7a2adc,Parigi Moutong,Donggala,Toli-Toli,Palu
+Sulawesi Tengah,91e505ab-c35b-4ec4-8f27-a18124e4f233,Poso,Sigi,Morowali Utara,Luwu Utara
+Sulawesi Tengah,a9bf5a6f-6182-4f3e-81cf-a02b21f79bc3,Sigi,Palu,Mamuju Utara,Poso
+Sulawesi Tengah,04f2a1d3-0880-4b14-8277-9fe1013ec41f,Tojo Una-Una,Morowali Utara,Poso,Banggai
+Sulawesi Tengah,ad47d4b1-3066-485a-bd63-6cd7828fa38f,Toli-Toli,Buol,Pohuwato,Parigi Moutong
+Sulawesi Tenggara,c825edf7-5a37-4c04-86f4-e23117fcf206,Baubau,Buton Selatan,Buton Tengah,Buton
+Sulawesi Tenggara,86ea0f56-af86-4f58-aacb-ef3393f52c3c,Bombana,Kolaka Timur,Muna Barat,Kolaka
+Sulawesi Tenggara,887290e3-f579-4b07-8451-ff1c05386c02,Buton,Buton Utara,Buton Selatan,Baubau
+Sulawesi Tenggara,2fabab8d-5e0d-4582-b707-e747c53e1cad,Buton Selatan,Baubau,Buton,Buton Tengah
+Sulawesi Tenggara,bd86f6bb-cbe5-4f4e-8a59-04e49bc806e1,Buton Tengah,Baubau,Muna,Buton Selatan
+Sulawesi Tenggara,971f9f92-60c5-4395-80c7-ad9ad0102846,Buton Utara,Muna,Buton,Muna Barat
+Sulawesi Tenggara,350346ec-fdf5-42a2-9d80-d4b00f044dcd,Kendari,Konawe Selatan,Konawe,Konawe Kepulauan
+Sulawesi Tenggara,f2d60a2b-9e5f-4d2d-8e8f-87fe7dffa414,Kolaka,Kolaka Timur,Konawe,Konawe Utara
+Sulawesi Tenggara,81b661c0-9ca1-4fe3-aca8-6a12d11d02f1,Kolaka Timur,Konawe,Kolaka,Bombana
+Sulawesi Tenggara,afd26ceb-1192-4a2e-aa7d-85e65f75dd5d,Kolaka Utara,Luwu Timur,Morowali,Konawe Utara
+Sulawesi Tenggara,011bb5da-1f93-4bd6-8f68-16ec04b3c913,Konawe,Kolaka Timur,Konawe Selatan,Kendari
+Sulawesi Tenggara,03c1936c-c14a-4e2b-9a2d-8efaaf70556b,Konawe Kepulauan,Kendari,Konawe Selatan,Buton Utara
+Sulawesi Tenggara,9b7acebd-21ee-40f5-8154-6e0d84eecabc,Konawe Selatan,Kendari,Konawe,Kolaka Timur
+Sulawesi Tenggara,43b840d2-20ed-4436-bff0-abf701548159,Konawe Utara,Konawe,Kolaka Timur,Morowali
+Sulawesi Tenggara,52bacfb8-208e-458c-b30c-fc4d03576cd1,Muna,Muna Barat,Buton Utara,Buton Tengah
+Sulawesi Tenggara,456f1c7e-4d0a-45cb-83be-cefa36ce2ca9,Muna Barat,Muna,Buton Tengah,Buton Utara
+Sulawesi Tenggara,3637040d-cc13-4559-ba62-d0b1e3c9fb72,Wakatobi,Buton,Buton Utara,Buton Selatan
+Sulawesi Utara,093a4266-2642-41a0-96a5-7e000bf07748,Bitung,Minahasa Utara,Manado,Tomohon
+Sulawesi Utara,320dfefa-e5c9-4330-acf7-3711ac54fd5d,Bolaang Mongondow,mobagu,Bolaang Mongondow Selatan,Bolaang Mongondow Timur
+Sulawesi Utara,8ac568be-0b8b-4cb0-a2ec-5f43ed0a2e35,Bolaang Mongondow Selatan,Bolaang Mongondow,Bone Bolango,Bolaang Mongondow Utara
+Sulawesi Utara,c149f3be-f26d-4315-8ec3-bb9a9373bd99,Bolaang Mongondow Timur,mobagu,Minahasa Tenggara,Bolaang Mongondow
+Sulawesi Utara,e8679c8b-b116-4473-ba1e-076a291064d2,Bolaang Mongondow Utara,Bone Bolango,Gorontalo Utara,Gorontalo
+Sulawesi Utara,9a4e8778-6c32-4cd9-a75f-a79dbc54ce90,Kepulauan Sangihe,Siau Tagulandang Biaro,Kepulauan Talaud,Bitung
+Sulawesi Utara,01e671e6-d128-4703-8849-da45e5e758bc,Kepulauan Talaud,Kepulauan Sangihe,Siau Tagulandang Biaro,Pulau Morotai
+Sulawesi Utara,125fd70f-be3e-4af3-b123-bf7a153bda4b,Manado,Minahasa Utara,Tomohon,Minahasa
+Sulawesi Utara,4eb4ba50-09e9-4f57-8943-5f80d3f90fa4,Minahasa,Tomohon,Minahasa Utara,Minahasa Tenggara
+Sulawesi Utara,002633c2-b45c-4fb1-bdf1-628b99d3b723,Minahasa Selatan,Minahasa,Minahasa Tenggara,Tomohon
+Sulawesi Utara,df8c5e7f-1553-4194-b677-d85e9e4dffcf,Minahasa Tenggara,Minahasa,Minahasa Selatan,Tomohon
+Sulawesi Utara,77ad6007-78a1-4f0b-97f6-46eb09a3c332,Minahasa Utara,Manado,Tomohon,Minahasa
+Sulawesi Utara,ee3bc4e5-c207-404f-bd16-8c8525f3a9d3,Siau Tagulandang Biaro,Bitung,Manado,Minahasa Utara
+Sulawesi Utara,f54c3d79-8732-4b9f-87c6-441813a82ae2,Tomohon,Minahasa,Minahasa Utara,Manado
+Sulawesi Utara,41bfda1b-1ed1-4cde-97c1-ba918c07a58d,mobagu,Bolaang Mongondow Timur,Bolaang Mongondow,Minahasa Selatan
+Sumatera Barat,4b851ccc-1757-469d-bcf1-7987c79332a0,Agam,Bukittinggi,Padang Panjang,Padang Pariaman
+Sumatera Barat,d2c59b33-d5cd-4edd-83cf-75c811dcc14d,Bukittinggi,Agam,Padang Panjang,Tanah Datar
+Sumatera Barat,d8c9ea7f-e73e-4795-b362-7f99ba2616c9,Dharmasraya,Solok Selatan,Bungo,Kerinci
+Sumatera Barat,66bc0339-ffd9-40b5-9f6a-65f34afb914d,Kepulauan Mentawai,Pariaman,Padang Pariaman,Padang
+Sumatera Barat,b43f6f18-efdd-4176-aa91-1cb9ada3659d,Lima Puluh,Payakumbuh,Bukittinggi,Agam
+Sumatera Barat,5e666aa8-abfd-4d4a-a02e-2caaef368a09,Padang,Solok,Solok,Padang Pariaman
+Sumatera Barat,b30b1801-1e9f-4746-a58d-5bfc472054cb,Padang Panjang,Bukittinggi,Tanah Datar,Padang Pariaman
+Sumatera Barat,e6fd9565-75f0-4d70-8b01-51e95fabe978,Padang Pariaman,Pariaman,Padang Panjang,Bukittinggi
+Sumatera Barat,868fa094-3360-4ec5-af90-c387b456c9e0,Pariaman,Padang Pariaman,Padang Panjang,Agam
+Sumatera Barat,3f94e24b-d0b9-48e3-a75b-d0dd36f44702,Pasaman,Pasaman Barat,Rokan Hulu,Agam
+Sumatera Barat,d504989f-a722-4266-8221-d22b7d951747,Pasaman Barat,Pasaman,Mandailing Natal,Agam
+Sumatera Barat,5738028d-c59b-402e-93ba-a289e2ddb27f,Payakumbuh,Lima Puluh,Tanah Datar,Bukittinggi
+Sumatera Barat,9127dc83-2331-443e-9765-d8c728041ab4,Pesisir Selatan,Solok,Solok Selatan,Sungai Penuh
+Sumatera Barat,79f2b714-1547-4c5d-bdd0-925cfa046989,Sawah Lunto,Solok,Tanah Datar,Sijunjung
+Sumatera Barat,3a285c68-4d84-45d5-84be-12e8460696da,Sijunjung,Sawah Lunto,Solok,Kuantan Singingi
+Sumatera Barat,395ebe14-c223-4285-8ddc-9132dde0bfab,Solok,Solok,Sawah Lunto,Padang
+Sumatera Barat,3c420344-8d9d-48a5-80e9-80e8a1617acd,Solok,Sawah Lunto,Padang,Solok
+Sumatera Barat,4853ee93-2bee-45c7-97e8-c9faaf3145b6,Solok Selatan,Dharmasraya,Bungo,Solok
+Sumatera Barat,8f690520-4bcc-4804-a33d-207148ca037c,Tanah Datar,Padang Panjang,Sawah Lunto,Payakumbuh
+Sumatera Selatan,ac1700bb-bb25-4ea2-b8d4-d3423c4cf695,Banyu Asin,Palembang,Penukal Abab Lematang Ilir,Prabumulih
+Sumatera Selatan,ee7eaa1a-1671-4c66-b6e1-7c4194b6d6a7,Empat Lawang,Rejang Lebong,Kepahiang,Lubuklinggau
+Sumatera Selatan,7acc7384-a6c1-4050-865a-efd7106a6d8e,Lahat,Pagar Alam,Muara Enim,Empat Lawang
+Sumatera Selatan,a293a350-2e24-4a66-988a-696cdf14fc02,Lubuklinggau,Rejang Lebong,Musi Rawas,Kepahiang
+Sumatera Selatan,71803dce-b9cf-4b5c-8e6e-757a7cba9d04,Muara Enim,Pagar Alam,Lahat,Ogan Komering Ulu
+Sumatera Selatan,be79aa6e-7a37-4c7c-b9c0-2f70012392b1,Musi Banyuasin,Banyu Asin,Penukal Abab Lematang Ilir,Jambi
+Sumatera Selatan,7f02bbed-58d9-4300-b64c-0257d4b092a6,Musi Rawas,Lubuklinggau,Rejang Lebong,Empat Lawang
+Sumatera Selatan,c95e4915-6497-46c3-8bb7-ae05a4bc8fcf,Musi Rawas Utara,Sarolangun,Lubuklinggau,Musi Rawas
+Sumatera Selatan,6ecbaeae-98d9-4dd4-ab41-202aded31fe0,Ogan Ilir,Prabumulih,Ogan Komering Ulu Timur,Palembang
+Sumatera Selatan,6606aa5b-3b72-4d71-8d43-98ad23d55046,Ogan Komering Ilir,Mesuji,Palembang,Ogan Ilir
+Sumatera Selatan,79410f49-5841-4277-86fb-6a53314f3bd2,Ogan Komering Ulu,Muara Enim,Ogan Komering Ulu Selatan,Way Kanan
+Sumatera Selatan,465d9bb9-eac5-4fd8-8fbc-70bae3a7f22a,Ogan Komering Ulu Selatan,Lampung Barat,Ogan Komering Ulu,Pesisir Barat
+Sumatera Selatan,f448b90f-0301-4c1e-be7f-1c203440a527,Ogan Komering Ulu Timur,Ogan Ilir,Way Kanan,Prabumulih
+Sumatera Selatan,b50876d9-07c8-4026-83c4-5779bd7d2e7a,Pagar Alam,Bengkulu Selatan,Muara Enim,Lahat
+Sumatera Selatan,8ddc89b0-78c1-4be9-a9c0-07733d38c3ae,Palembang,Banyu Asin,Ogan Ilir,Penukal Abab Lematang Ilir
+Sumatera Selatan,aef2edc9-0277-4b51-880b-40a0494df04a,Penukal Abab Lematang Ilir,Prabumulih,Banyu Asin,Ogan Ilir
+Sumatera Selatan,8b137e64-ed21-45fd-b19d-f63b047cfa09,Prabumulih,Penukal Abab Lematang Ilir,Ogan Ilir,Banyu Asin
+Sumatera Utara,35a164b0-8e64-4d49-bd37-a8e7bd4b429d,Asahan,Tanjung Balai,Batu Bara,Labuhan Batu Utara
+Sumatera Utara,bc544212-a798-47f4-ac18-331646b9ae63,Batu Bara,Asahan,Tanjung Balai,Tebing Tinggi
+Sumatera Utara,fc6e8020-a4ac-435b-8327-caad5a68784b,Binjai,Medan,Langkat,Deli Serdang
+Sumatera Utara,9ea3065f-b0cf-45fb-9b63-e7851d4ec2a1,Dairi,Karo,Pakpak Bharat,Subulussalam
+Sumatera Utara,3a47657b-facc-45dc-9d7f-1c6fb25f49d4,Deli Serdang,Medan,Binjai,Serdang Bedagai
+Sumatera Utara,b1d344c7-81ba-40ef-9f20-4f9559a73f21,Gunungsitoli,Nias Utara,Nias Barat,Nias
+Sumatera Utara,16e04c48-22d2-41a2-8efa-1cb1334794dc,Humbang Hasundutan,Pakpak Bharat,Tapanuli Tengah,Samosir
+Sumatera Utara,c2abf78c-3cc1-4087-8e67-d4fce65cb7e3,Karo,Dairi,Subulussalam,Deli Serdang
+Sumatera Utara,c6fa44ef-709b-4f34-8242-990b03c8c44c,Labuhan Batu,Labuhan Batu Selatan,Labuhan Batu Utara,Rokan Hilir
+Sumatera Utara,d4016e22-955f-49ca-9b5b-bd50a7b4e05f,Labuhan Batu Selatan,Labuhan Batu,Labuhan Batu Utara,Padang Lawas Utara
+Sumatera Utara,acdd0313-101e-4afe-9cf9-fbcaae0ce041,Labuhan Batu Utara,Toba Samosir,Labuhan Batu,Asahan
+Sumatera Utara,79b83343-b530-4d4a-90ed-c1efc1934d14,Langkat,Binjai,Medan,Deli Serdang
+Sumatera Utara,6fe7a7fb-d2f1-480d-87a1-d6e9c1f4892a,Mandailing Natal,Pasaman Barat,Padangsidimpuan,Padang Lawas
+Sumatera Utara,a6f7a20f-7172-4436-a418-afc91020ba0f,Medan,Deli Serdang,Binjai,Langkat
+Sumatera Utara,99dd49e0-d3d2-4c79-a7a7-86534cb7f60f,Nias,Nias Barat,Nias Selatan,Gunungsitoli
+Sumatera Utara,a1273d83-c477-42ac-8e65-f2219e9507ac,Nias Barat,Nias,Gunungsitoli,Nias Selatan
+Sumatera Utara,51b9db38-3d4e-41c1-9957-7295d2bca08f,Nias Selatan,Nias,Nias Barat,Gunungsitoli
+Sumatera Utara,e9a422e4-8a73-44a7-aed2-38ecacb67fda,Nias Utara,Gunungsitoli,Nias Barat,Nias
+Sumatera Utara,1161307c-2fd6-4beb-99d1-093dd3ee97e1,Padang Lawas,Padang Lawas Utara,Padangsidimpuan,Tapanuli Selatan
+Sumatera Utara,30d7af4a-54fa-4f97-874c-3a0870a03b73,Padang Lawas Utara,Padang Lawas,Padangsidimpuan,Tapanuli Selatan
+Sumatera Utara,a43ee235-0a45-4d53-be12-c0381f432d91,Padangsidimpuan,Tapanuli Selatan,Padang Lawas Utara,Padang Lawas
+Sumatera Utara,d616b346-c2bb-4437-b22c-4076005e3daf,Pakpak Bharat,Dairi,Aceh Singkil,Subulussalam
+Sumatera Utara,78a5c2f7-51df-4c60-980b-4b2a3e23fb16,Pematang Siantar,Simalungun,Tebing Tinggi,Serdang Bedagai
+Sumatera Utara,1aa5c879-0d25-4406-8ef1-10493f1ef38b,Samosir,Simalungun,Humbang Hasundutan,Pematang Siantar
+Sumatera Utara,ecd68ff7-eae0-4ea2-b59d-fc15a840e08b,Serdang Bedagai,Tebing Tinggi,Deli Serdang,Pematang Siantar
+Sumatera Utara,d02383cd-1747-4c29-bee2-66d5e7f4c6cf,Sibolga,Tapanuli Tengah,Tapanuli Utara,Tapanuli Selatan
+Sumatera Utara,c87ff800-bf27-4d53-b065-987659ae45f4,Simalungun,Pematang Siantar,Samosir,Tebing Tinggi
+Sumatera Utara,e5b5794f-6257-46f0-8ad5-4d6c0b87de0f,Tanjung Balai,Asahan,Batu Bara,Labuhan Batu Utara
+Sumatera Utara,334da0cf-c1b5-4923-8a8a-56fb725dc098,Tapanuli Selatan,Padangsidimpuan,Padang Lawas Utara,Sibolga
+Sumatera Utara,85e14a69-9522-442c-9318-4d346e4cdf12,Tapanuli Tengah,Sibolga,Humbang Hasundutan,Tapanuli Utara
+Sumatera Utara,d4d61c55-2b57-4de1-8f06-a3e4c6945ffe,Tapanuli Utara,Sibolga,Tapanuli Tengah,Toba Samosir
+Sumatera Utara,b0d186bc-8f9a-49fb-a2da-f3bc517cd2f1,Tebing Tinggi,Serdang Bedagai,Pematang Siantar,Batu Bara
+Sumatera Utara,0353449a-7676-4740-bfed-95ff5b8f3dd2,Toba Samosir,Tapanuli Utara,Labuhan Batu Utara,Simalungun
